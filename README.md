@@ -9,7 +9,7 @@ I'm ka, a dude dabbling in blueteaming, forensics and homelabbing in an unknown 
 * homelabbing when time allows.
 * CRTO red team labbing when I have spare time.
 * PS5 platinums when possible.
-* Letterboxd watchlists all if there is spare time.
+* Letterboxd watchlists if there is spare time.
 
 ## 🎄 My wishlist for 2023 is ...
 * more time....
