@@ -18,8 +18,11 @@ I'm ka, a dude dabbling in blueteaming, forensics and homelabbing in an unknown 
 
 ## ⚡ The current state of the homelab is ...
 
-https://healthchecks.krypi.net/badge/f4ae7ea7-3e6b-4a1a-b049-159fd0/HsTFylfF-2.svg
-
+--- ![Static Badge](https://healthchecks.krypi.net/badge/f4ae7ea7-3e6b-4a1a-b049-159fd0/HsTFylfF-2.svg
+)
+<br/><br/>
+--- ![Static Badge](https://healthchecks.krypi.net/badge/f4ae7ea7-3e6b-4a1a-b049-159fd0/n_bIa80b-2/test.svg
+)
 <!--
 **this page** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
