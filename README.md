@@ -18,7 +18,9 @@ I'm ka, a dude dabbling in blueteaming, forensics and homelabbing in an unknown 
 
 ## ⚡ The current state of the homelab is ...
 
-a placeholder.
+a placeholder and as below;
+
+[![Sync Tailscale ACLs](https://github.com/kaywoz/tailscale-prod/actions/workflows/tailscale.yml/badge.svg)](https://github.com/kaywoz/tailscale-prod/actions/workflows/tailscale.yml)
 <!--
 **this page** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
