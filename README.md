@@ -12,9 +12,8 @@ I'm ka, a dude dabbling in blueteaming, forensics and homelabbing in an unknown 
 * Letterboxd watchlists if there is spare time.
 
 but also the below;
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/kaywoz/bluestuff?label=repo%3Abluestuff%20commits)
 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/kaywoz/gluestuff?label=repo%3Agluestuff%20commits)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/kaywoz/bluestuff?label=repo%3Abluestuff%20commits) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/kaywoz/gluestuff?label=repo%3Agluestuff%20commits)
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/kaywoz/kaywoz.github.io?label=repo%3Akaywozplayz%20commits)
 
