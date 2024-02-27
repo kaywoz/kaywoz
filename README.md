@@ -14,9 +14,13 @@ I'm ka, a dude dabbling in blueteaming, forensics and homelabbing in an unknown 
 but also the below;
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/kaywoz/bluestuff?label=repo%3Abluestuff%20commits)
+
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/kaywoz/gluestuff?label=repo%3Agluestuff%20commits)
+
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/kaywoz/kaywoz.github.io?label=repo%3Akaywozplayz%20commits)
+
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/kaywoz/home0ps?label=repo%3Ahome0ps%20commits)
+
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/kaywoz/ctfstuff?label=repo%3Actfstuff%20commits)
 
 
