@@ -11,7 +11,7 @@ I'm ka, a dude dabbling in blueteaming, forensics and homelabbing in an unknown 
 * PS5 platinums when possible.
 * Letterboxd watchlists if there is spare time.
 
-And apparently I've managed to ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/kaywoz/bluestuff)
+And apparently I've managed to ![stuff stuff](https://img.shields.io/github/commit-activity/m/kaywoz/bluestuff)
 
 
 ## 🎄 My wishlist for 2023 is ...
