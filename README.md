@@ -21,6 +21,7 @@ I'm ka, a dude dabbling in blueteaming, forensics and homelabbing in an unknown 
 a placeholder and as below;
 
 [![sync Tailscale acls](https://github.com/kaywoz/tailscale-prod/actions/workflows/tailscale.yml/badge.svg)](https://github.com/kaywoz/tailscale-prod/actions/workflows/tailscale.yml)
+[![Build and Deploy kaywozplayz.krypi.net ](https://github.com/kaywoz/kaywoz.github.io/actions/workflows/pages-deploy.yml/badge.svg)](https://github.com/kaywoz/kaywoz.github.io/actions/workflows/pages-deploy.yml)
 <!--
 **this page** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
