@@ -17,7 +17,7 @@ I'm ka, a dude dabbling in blueteaming, forensics and homelabbing in an unknown 
 
 ---
 
-## ⚡ The current state of the homelab is can be found below;
+## ⚡ The current state of the homelab can be found below;
 
 https://uptimekuma-public.krypi.net/status/public1239asd
 <!--
