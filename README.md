@@ -41,10 +41,12 @@ CTFs etc:
   <img src="https://blueteamlabs.online/images/mainpic.png" alt="Points" style="width:1cm; height:auto; vertical-align:baseline;" />
 </a>
 
---
-
 <a href="https://app.letsdefend.io/user/morna">
   <img src="https://app.letsdefend.io/images/logo-ld.svg" alt="Points" style="width:3cm; height:auto; vertical-align:baseline;" />
+</a>
+
+<a href="https://app.hackthebox.com/profile/51166">
+  <img src="https://account.hackthebox.com/images/logos/logo-htb.svg" alt="Points" style="width:3cm; height:auto; vertical-align:baseline;" />
 </a>
 
 
