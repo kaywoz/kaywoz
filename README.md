@@ -31,7 +31,8 @@ Xen Orchestra translation - <a href="https://translate.vates.tech/user/morna/">
 Tailscale ACLs - <img src="https://github.com/kaywoz/tailscale/actions/workflows/tailscale.yml/badge.svg" alt="Status" />
 </a>
 
-Folding@Home points - <img src="https://folding-at-home-badge-backend.simplecode.gr/api/badge/Morna/" alt="Points" />
+Folding@Home points - <a href="https://folding.extremeoverclocking.com/user_summary.php?s=&u=378758">
+<img src="https://folding-at-home-badge-backend.simplecode.gr/api/badge/Morna/" alt="Points" />
 </a>
 
 
