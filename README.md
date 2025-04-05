@@ -35,6 +35,7 @@ Folding@Home points - <a href="https://folding.extremeoverclocking.com/user_summ
 <img src="https://folding-at-home-badge-backend.simplecode.gr/api/badge/Morna/" alt="Points" />
 </a>
 
+_________________________
 
 CTFs etc:<br><br>
 
