@@ -41,7 +41,9 @@ BTLO - <a href="https://blueteamlabs.online/public/user/morna">
   <img src="https://blueteamlabs.online/images/mainpic.png" alt="Points" style="width:1cm; height:auto; vertical-align:baseline;" />
 </a>
 
-
+stuff - BTLO - <a href="https://blueteamlabs.online/public/user/morna">
+  <img src="https://blueteamlabs.online/images/mainpic.png" alt="Points" style="width:1in; height:auto; vertical-align:middle; display:inline;" />
+</a>
 
 
 <!--
