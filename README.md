@@ -18,7 +18,7 @@ I'm ka, a dude dabbling in blueteaming, forensics and homelabbing in an unknown 
 
 ---
 
-## ⚡ The current state of the homelab can be found below;
+## ⚡ The current state of the homelab and extras can be found below;
 
 Down... it's down... Changed basically all the hypervisor hardware but will update this space when possible:
 
@@ -30,6 +30,11 @@ Xen Orchestra translation - <a href="https://translate.vates.tech/user/morna/">
 
 Tailscale ACLs - <img src="https://github.com/kaywoz/tailscale/actions/workflows/tailscale.yml/badge.svg" alt="Status" />
 </a>
+
+Folding@Home points - <img src="https://folding-at-home-badge-backend.simplecode.gr/api/badge/Morna/" alt="Points" />
+</a>
+
+
 
 <!--
 **this page** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
