@@ -35,23 +35,32 @@ Folding@Home points - <a href="https://folding.extremeoverclocking.com/user_summ
 <img src="https://folding-at-home-badge-backend.simplecode.gr/api/badge/Morna/" alt="Points" />
 </a>
 
+
 CTFs etc:<br><br>
 
-<a href="https://blueteamlabs.online/public/user/morna" style="margin-right:1em;">
-  <img src="https://blueteamlabs.online/images/mainpic.png" alt="BTLO" style="width:1cm; height:auto; vertical-align:middle;" />
-</a>
-
-<a href="https://app.letsdefend.io/user/morna" style="margin-right:1em;">
-  <img src="https://app.letsdefend.io/images/logo-ld.svg" alt="LetsDefend" style="width:3cm; height:auto; vertical-align:middle;" />
-</a>
-
-<a href="https://app.hackthebox.com/profile/51166" style="margin-right:1em;">
-  <img src="https://account.hackthebox.com/images/logos/logo-htb.svg" alt="HTB" style="width:3cm; height:auto; vertical-align:middle;" />
-</a>
-
-<a href="https://cyberdefenders.org/p/nart">
-  <img src="https://cyberdefenders.org/static/assets/images/brand/logo/cyberdefenders_secondary_blue_logo_no_motto_2.svg" alt="CyberDefenders" style="width:3cm; height:auto; vertical-align:middle;" />
-</a>
+CTFs etc:
+<ul style="list-style-type: none; padding: 0;">
+  <li style="margin-bottom: 1em;">
+    <a href="https://blueteamlabs.online/public/user/morna">
+      <img src="https://blueteamlabs.online/images/mainpic.png" alt="BTLO" style="width:1cm; height:auto; vertical-align:middle;" />
+    </a>
+  </li>
+  <li style="margin-bottom: 1em;">
+    <a href="https://app.letsdefend.io/user/morna">
+      <img src="https://app.letsdefend.io/images/logo-ld.svg" alt="LetsDefend" style="width:3cm; height:auto; vertical-align:middle;" />
+    </a>
+  </li>
+  <li style="margin-bottom: 1em;">
+    <a href="https://app.hackthebox.com/profile/51166">
+      <img src="https://account.hackthebox.com/images/logos/logo-htb.svg" alt="HTB" style="width:3cm; height:auto; vertical-align:middle;" />
+    </a>
+  </li>
+  <li style="margin-bottom: 1em;">
+    <a href="https://cyberdefenders.org/p/nart">
+      <img src="https://cyberdefenders.org/static/assets/images/brand/logo/cyberdefenders_secondary_blue_logo_no_motto_2.svg" alt="CyberDefenders" style="width:3cm; height:auto; vertical-align:middle;" />
+    </a>
+  </li>
+</ul>
 
 
 
