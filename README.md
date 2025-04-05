@@ -38,6 +38,8 @@ Folding@Home points - <a href="https://folding.extremeoverclocking.com/user_summ
 CTFs etc:
 
 BTLO - <a href="https://blueteamlabs.online/public/user/morna">
+<img src="https://blueteamlabs.online/images/mainpic.png" alt="Points" />
+</a>
 
 
 
