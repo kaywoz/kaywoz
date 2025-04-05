@@ -22,7 +22,7 @@ I'm ka, a dude dabbling in blueteaming, forensics and homelabbing in an unknown 
 
 Down... it's down... Changed basically all the hypervisor hardware but will update this space when possible:
 
-Meanwhile I did some translation for the XO-project, try it out it's awesome if you are a post VMware-pandemonium survivor.
+Meanwhile I did some translation for the XO-project, try it out! It's awesome if you are a post VMware-pandemonium survivor.
 
 Xen Orchestra translation - <a href="https://translate.vates.tech/user/morna/">
 <img src="http://translate.vates.tech/widget/xen-orchestra/xen-orchestra-6/sv/svg-badge.svg" alt="Translation status" />
@@ -34,6 +34,11 @@ Tailscale ACLs - <img src="https://github.com/kaywoz/tailscale/actions/workflows
 Folding@Home points - <a href="https://folding.extremeoverclocking.com/user_summary.php?s=&u=378758">
 <img src="https://folding-at-home-badge-backend.simplecode.gr/api/badge/Morna/" alt="Points" />
 </a>
+
+CTFs etc:
+
+BTLO - <a href="https://blueteamlabs.online/public/user/morna">
+
 
 
 
