@@ -28,6 +28,8 @@ Xen Orchestra translation - <a href="https://translate.vates.tech/user/morna/">
 <img src="http://translate.vates.tech/widget/xen-orchestra/xen-orchestra-6/sv/svg-badge.svg" alt="Translation status" />
 </a>
 
+Tailscale ACLs - https://github.com/kaywoz/tailscale/actions/workflows/tailscale.yml/badge.svg
+
 <!--
 **this page** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
