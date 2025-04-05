@@ -49,6 +49,10 @@ CTFs etc:
   <img src="https://account.hackthebox.com/images/logos/logo-htb.svg" alt="Points" style="width:3cm; height:auto; vertical-align:baseline;" />
 </a>
 
+<a href="https://cyberdefenders.org/p/nart">
+  <img src="https://cyberdefenders.org/static/assets/images/brand/logo/cyberdefenders_secondary_blue_logo_no_motto_2.svg" alt="Points" style="width:3cm; height:auto; vertical-align:baseline;" />
+</a>
+
 
 <!--
 **this page** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
