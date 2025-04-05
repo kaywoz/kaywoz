@@ -61,7 +61,6 @@ CTFs etc:<br><br>
   </li>
 </ul>
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=255557" style="border:none;"></iframe>
 
 
 
