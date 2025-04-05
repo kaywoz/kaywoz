@@ -24,9 +24,10 @@ Down... it's down... Changed basically all the hypervisor hardware but will upda
 
 Meanwhile I did some translation for the XO-project, try it out it's awesome if you are a post VMware-pandemonium survivor.
 
-<a href="http://translate.vates.tech/engage/xen-orchestra/-/sv/">
+Xen Orchestra translation
+<a href="https://translate.vates.tech/user/morna/">
 <img src="http://translate.vates.tech/widget/xen-orchestra/xen-orchestra-6/sv/svg-badge.svg" alt="Translation status" />
-</a> https://translate.vates.tech/user/morna/
+</a>
 
 <!--
 **this page** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
