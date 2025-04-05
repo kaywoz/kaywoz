@@ -38,7 +38,6 @@ Folding@Home points - <a href="https://folding.extremeoverclocking.com/user_summ
 
 CTFs etc:<br><br>
 
-CTFs etc:
 <ul style="list-style-type: none; padding: 0;">
   <li style="margin-bottom: 1em;">
     <a href="https://blueteamlabs.online/public/user/morna">
@@ -61,6 +60,8 @@ CTFs etc:
     </a>
   </li>
 </ul>
+
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=255557" style='border:none;'></iframe>
 
 
 
