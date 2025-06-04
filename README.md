@@ -31,7 +31,7 @@ Xen Orchestra translation - <a href="https://translate.vates.tech/user/morna/">
 Tailscale ACLs - <img src="https://github.com/kaywoz/tailscale/actions/workflows/tailscale.yml/badge.svg" alt="Status" />
 </a>
 
-Terraform Cloudflare DNS - [![sync cloudflare via terraform](https://github.com/kaywoz/terraform-cloudflare/actions/workflows/terraform.yml/badge.svg)](https://github.com/kaywoz/terraform-cloudflare/actions/workflows/terraform.yml)
+Terraform DNS - [![sync cloudflare via terraform](https://github.com/kaywoz/terraform-cloudflare/actions/workflows/terraform.yml/badge.svg)](https://github.com/kaywoz/terraform-cloudflare/actions/workflows/terraform.yml)
 
 Folding@Home points - <a href="https://folding.extremeoverclocking.com/user_summary.php?s=&u=378758">
 <img src="https://folding-at-home-badge-backend.simplecode.gr/api/badge/Morna/" alt="Points" />
