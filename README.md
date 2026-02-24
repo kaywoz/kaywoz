@@ -33,6 +33,8 @@ Tailscale ACLs - <img src="https://github.com/kaywoz/tailscale/actions/workflows
 
 Terraform DNS - [![sync cloudflare via terraform](https://github.com/kaywoz/terraform-cloudflare/actions/workflows/terraform.yml/badge.svg)](https://github.com/kaywoz/terraform-cloudflare/actions/workflows/terraform.yml)
 
+OpenTofu Hetzner DNS-config - [![Deploy Hetzner DNS-config](https://github.com/kaywoz/home0ps/actions/workflows/deploy-dns.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-dns.yml)
+
 Folding@Home points - <a href="https://folding.extremeoverclocking.com/user_summary.php?s=&u=378758">
 <img src="https://folding-at-home-badge-backend.simplecode.gr/api/badge/Morna/" alt="Points" />
 </a>
