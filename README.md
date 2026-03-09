@@ -12,9 +12,9 @@ I'm ka, a dude dabbling in blueteaming, forensics and homelabbing in an unknown 
 * Letterboxd watchlists if there is spare time.
 
 
-## 🎄 My wishlist for 2025 is ...
-* more time....
-* but also to start streaming let's plays in one way or another.
+## 🎄 My wishlist for 2026 is ...
+* time for homelab and funz
+* more subs for my streams lol
 
 ---
 
