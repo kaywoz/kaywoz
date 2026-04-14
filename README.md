@@ -28,12 +28,12 @@ Xen Orchestra translation - <a href="https://translate.vates.tech/user/morna/">
 <img src="http://translate.vates.tech/widget/xen-orchestra/xen-orchestra-6/sv/svg-badge.svg" alt="Translation status" />
 </a>
 
-Tailscale ACLs - Terraform <img src="https://github.com/kaywoz/tailscale/actions/workflows/tailscale.yml/badge.svg" alt="Status" />
+Tailscale ACLs via terraform <img src="https://github.com/kaywoz/tailscale/actions/workflows/tailscale.yml/badge.svg" alt="Status" />
 </a>
 
-Sync DNS - Terraform  [![sync cloudflare via terraform](https://github.com/kaywoz/terraform-cloudflare/actions/workflows/terraform.yml/badge.svg)](https://github.com/kaywoz/terraform-cloudflare/actions/workflows/terraform.yml)
+Sync DNS [![sync cloudflare via terraform](https://github.com/kaywoz/terraform-cloudflare/actions/workflows/terraform.yml/badge.svg)](https://github.com/kaywoz/terraform-cloudflare/actions/workflows/terraform.yml)
 
-DNS Zone config - Opentofu [![Deploy Hetzner DNS-config](https://github.com/kaywoz/home0ps/actions/workflows/deploy-dns.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-dns.yml)
+DNS Zone config [![Deploy Hetzner DNS-config](https://github.com/kaywoz/home0ps/actions/workflows/deploy-dns.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-dns.yml)
 
 Mirror code repo's [![Mirror all repos to Codeberg](https://github.com/kaywoz/github-mirror-controller/actions/workflows/mirror-all.yml/badge.svg)](https://github.com/kaywoz/github-mirror-controller/actions/workflows/mirror-all.yml)
 
