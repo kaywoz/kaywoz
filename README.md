@@ -33,7 +33,7 @@ Tailscale ACLs via terraform <img src="https://github.com/kaywoz/tailscale/actio
 
 Sync DNS [![sync cloudflare via terraform](https://github.com/kaywoz/terraform-cloudflare/actions/workflows/terraform.yml/badge.svg)](https://github.com/kaywoz/terraform-cloudflare/actions/workflows/terraform.yml)
 
-[![Deploy IAC via OpenTofu](https://github.com/kaywoz/home0ps/actions/workflows/deploy-iac.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-iac.yml)
+Deply IAC via OpenTofu [![Deploy IAC via OpenTofu](https://github.com/kaywoz/home0ps/actions/workflows/deploy-iac.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-iac.yml)
 
 DNS Zone config [![Deploy Hetzner DNS-config](https://github.com/kaywoz/home0ps/actions/workflows/deploy-dns.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-dns.yml)
 
