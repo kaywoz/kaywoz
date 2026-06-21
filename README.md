@@ -38,13 +38,8 @@ Deploy via OpenTofu [![Deploy IAC via OpenTofu](https://github.com/kaywoz/home0p
 Mirror code repo's [![mirror repos to Codeberg](https://github.com/kaywoz/github-mirror-controller/actions/workflows/mirror-all.yml/badge.svg)](https://github.com/kaywoz/github-mirror-controller/actions/workflows/mirror-all.yml)
 
 ![Templates](https://img.shields.io/badge/templates-29-blue?style=flat-square&logo=docker)
-![MOS Hub](https://img.shields.io/badge/MOS_Hub-compatible-brightgreen?style=flat-square)
 ![License](https://img.shields.io/github/license/kaywoz/mos-templates?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/kaywoz/mos-templates?style=flat-square)
-
-![Docker](https://img.shields.io/badge/docker-ready-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Self Hosted](https://img.shields.io/badge/self--hosted-yes-orange?style=flat-square&logo=homeassistant&logoColor=white)
-
 ![GitHub stars](https://img.shields.io/github/stars/kaywoz/mos-templates?style=flat-square)
 ![Repo size](https://img.shields.io/github/repo-size/kaywoz/mos-templates?style=flat-square)
 ![MOS](https://img.shields.io/badge/MOS-Hub_Repository-4A90D9?style=flat-square)
