@@ -47,6 +47,7 @@ Mirror code repo's [![mirror repos to Codeberg](https://github.com/kaywoz/github
 
 ![GitHub stars](https://img.shields.io/github/stars/kaywoz/mos-templates?style=flat-square)
 ![Repo size](https://img.shields.io/github/repo-size/kaywoz/mos-templates?style=flat-square)
+![MOS](https://img.shields.io/badge/MOS-Hub_Repository-4A90D9?style=flat-square)
 
 Folding@Home points - <a href="https://folding.extremeoverclocking.com/user_summary.php?s=&u=378758">
 <img src="https://folding-at-home-badge-backend.simplecode.gr/api/badge/Morna/" alt="Points" />
