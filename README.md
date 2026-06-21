@@ -42,6 +42,9 @@ Mirror code repo's [![mirror repos to Codeberg](https://github.com/kaywoz/github
 ![License](https://img.shields.io/github/license/kaywoz/mos-templates?style=flat-square)
 ![Last Commit](https://img.shields.io/github/last-commit/kaywoz/mos-templates?style=flat-square)
 
+![Docker](https://img.shields.io/badge/docker-ready-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Self Hosted](https://img.shields.io/badge/self--hosted-yes-orange?style=flat-square&logo=homeassistant&logoColor=white)
+
 Folding@Home points - <a href="https://folding.extremeoverclocking.com/user_summary.php?s=&u=378758">
 <img src="https://folding-at-home-badge-backend.simplecode.gr/api/badge/Morna/" alt="Points" />
 _________________________
