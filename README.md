@@ -37,7 +37,7 @@ Deploy via OpenTofu [![Deploy IAC via OpenTofu](https://github.com/kaywoz/home0p
 
 Mirror code repo's [![mirror repos to Codeberg](https://github.com/kaywoz/github-mirror-controller/actions/workflows/mirror-all.yml/badge.svg)](https://github.com/kaywoz/github-mirror-controller/actions/workflows/mirror-all.yml)
 
-mos-templates last commit ![Last Commit](https://img.shields.io/github/last-commit/kaywoz/mos-templates?style=flat-square)
+mos-templates ![Last Commit](https://img.shields.io/github/last-commit/kaywoz/mos-templates?style=flat-square)
 
 
 Folding@Home points - <a href="https://folding.extremeoverclocking.com/user_summary.php?s=&u=378758">
