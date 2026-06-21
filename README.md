@@ -37,6 +37,8 @@ Deploy via OpenTofu [![Deploy IAC via OpenTofu](https://github.com/kaywoz/home0p
 
 Mirror code repo's [![mirror repos to Codeberg](https://github.com/kaywoz/github-mirror-controller/actions/workflows/mirror-all.yml/badge.svg)](https://github.com/kaywoz/github-mirror-controller/actions/workflows/mirror-all.yml)
 
+test ![Templates](https://img.shields.io/badge/templates-29-blue?style=flat-square&logo=docker)
+
 Folding@Home points - <a href="https://folding.extremeoverclocking.com/user_summary.php?s=&u=378758">
 <img src="https://folding-at-home-badge-backend.simplecode.gr/api/badge/Morna/" alt="Points" />
 </a>
