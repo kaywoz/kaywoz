@@ -35,7 +35,7 @@ Sync DNS [![sync cloudflare via terraform](https://github.com/kaywoz/home0ps/act
 
 Deploy S3 [![Deploy IAC via OpenTofu](https://github.com/kaywoz/home0ps/actions/workflows/deploy-iac.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-iac.yml)
 
-Mirror code repo's [![mirror repos to Codeberg](https://github.com/kaywoz/github-mirror-controller/actions/workflows/mirror-all.yml/badge.svg)](https://github.com/kaywoz/github-mirror-controller/actions/workflows/mirror-all.yml)
+Github backup [![mirror repos to Codeberg](https://github.com/kaywoz/github-mirror-controller/actions/workflows/mirror-all.yml/badge.svg)](https://github.com/kaywoz/github-mirror-controller/actions/workflows/mirror-all.yml)
 
 Mos-templates ![Last Commit](https://img.shields.io/github/last-commit/kaywoz/mos-templates?style=flat-square)
 
