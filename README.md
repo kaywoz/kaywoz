@@ -33,7 +33,7 @@ Tailscale ACLs via terraform <img src="https://github.com/kaywoz/tailscale/actio
 
 Sync DNS [![sync cloudflare via terraform](https://github.com/kaywoz/home0ps/actions/workflows/deploy-cloudflare-dns.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-cloudflare-dns.yml)
 
-Deploy S3 [![Deploy IAC via OpenTofu](https://github.com/kaywoz/home0ps/actions/workflows/deploy-iac.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-iac.yml)
+Deploy S3 [![deploy s3 via OpenTofu](https://github.com/kaywoz/home0ps/actions/workflows/deploy-s3.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-s3.yml)
 
 Github backup [![mirror repos to Codeberg](https://github.com/kaywoz/github-mirror-controller/actions/workflows/mirror-all.yml/badge.svg)](https://github.com/kaywoz/github-mirror-controller/actions/workflows/mirror-all.yml)
 
