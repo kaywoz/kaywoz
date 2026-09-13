@@ -31,7 +31,7 @@ Xen Orchestra translation <a href="https://translate.vates.tech/user/morna/">
 Tailscale ACLs via terraform <img src="https://github.com/kaywoz/tailscale/actions/workflows/tailscale.yml/badge.svg" alt="Status" />
 </a>
 
-Sync DNS [![sync cloudflare via terraform](https://github.com/kaywoz/terraform-cloudflare/actions/workflows/terraform.yml/badge.svg)](https://github.com/kaywoz/terraform-cloudflare/actions/workflows/terraform.yml)
+Sync DNS [![sync cloudflare via terraform](https://github.com/kaywoz/home0ps/actions/workflows/deploy-iac.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-iac.yml)
 
 Deploy via OpenTofu [![Deploy IAC via OpenTofu](https://github.com/kaywoz/home0ps/actions/workflows/deploy-iac.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-iac.yml)
 
