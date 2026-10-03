@@ -31,9 +31,9 @@ Xen Orchestra translation <a href="https://translate.vates.tech/user/morna/">
 Tailscale ACLs via OpenTofu [![deploy tailscale acl](https://github.com/kaywoz/home0ps/actions/workflows/deploy-tailscale-acl.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-tailscale-acl.yml)
 
 
-Sync DNS [![sync cloudflare via terraform](https://github.com/kaywoz/home0ps/actions/workflows/deploy-cloudflare-dns.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-cloudflare-dns.yml)
+Sync DNS via OpenTofu [![sync cloudflare via terraform](https://github.com/kaywoz/home0ps/actions/workflows/deploy-cloudflare-dns.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-cloudflare-dns.yml)
 
-Deploy S3 [![deploy s3 via OpenTofu](https://github.com/kaywoz/home0ps/actions/workflows/deploy-s3.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-s3.yml)
+Deploy S3 via OpenTofu [![deploy hetzner via OpenTofu](https://github.com/kaywoz/home0ps/actions/workflows/deploy-hetzner.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-hetzner.yml)
 
 Github backup [![mirror repos to Codeberg](https://github.com/kaywoz/github-mirror-controller/actions/workflows/mirror-all.yml/badge.svg)](https://github.com/kaywoz/github-mirror-controller/actions/workflows/mirror-all.yml)
 
