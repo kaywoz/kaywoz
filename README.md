@@ -28,8 +28,8 @@ Xen Orchestra translation <a href="https://translate.vates.tech/user/morna/">
 <img src="http://translate.vates.tech/widget/xen-orchestra/xen-orchestra-6/sv/svg-badge.svg" alt="Translation status" />
 </a>
 
-Tailscale ACLs via terraform <img src="https://github.com/kaywoz/tailscale/actions/workflows/tailscale.yml/badge.svg" alt="Status" />
-</a>
+Tailscale ACLs via OpenTofu [![deploy tailscale acl](https://github.com/kaywoz/home0ps/actions/workflows/deploy-tailscale-acl.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-tailscale-acl.yml)
+
 
 Sync DNS [![sync cloudflare via terraform](https://github.com/kaywoz/home0ps/actions/workflows/deploy-cloudflare-dns.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-cloudflare-dns.yml)
 
