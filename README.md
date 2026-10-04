@@ -30,7 +30,6 @@ Xen Orchestra translation <a href="https://translate.vates.tech/user/morna/">
 
 Tailscale via OpenTofu [![deploy tailscale acl](https://github.com/kaywoz/home0ps/actions/workflows/deploy-tailscale-acl.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-tailscale-acl.yml)
 
-
 Cloudflare via OpenTofu [![sync cloudflare via terraform](https://github.com/kaywoz/home0ps/actions/workflows/deploy-cloudflare-dns.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-cloudflare-dns.yml)
 
 Hetzner via OpenTofu [![deploy hetzner via OpenTofu](https://github.com/kaywoz/home0ps/actions/workflows/deploy-hetzner.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-hetzner.yml)
@@ -39,6 +38,7 @@ Github backup [![mirror repos to Codeberg](https://github.com/kaywoz/github-mirr
 
 Mos-templates ![Last Commit](https://img.shields.io/github/last-commit/kaywoz/mos-templates?style=flat-square)
 
+home0ps Weekly summary [![weekly readme refresh](https://github.com/kaywoz/home0ps/actions/workflows/readme-weekly.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/readme-weekly.yml)
 
 Folding@Home points - <a href="https://folding.extremeoverclocking.com/user_summary.php?s=&u=378758">
 <img src="https://folding-at-home-badge-backend.simplecode.gr/api/badge/Morna/" alt="Points" />
