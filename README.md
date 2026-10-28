@@ -63,7 +63,6 @@ Meanwhile I did some translation for the XO-project, try it out! It's awesome if
 
 ### MOS Apps Contribution
 
-<a href="https://translate.vates.tech/projects/xen-orchestra/xen-orchestra-6/sv/">
   <img src="https://img.shields.io/github/last-commit/kaywoz/mos-templates?style=flat-square" alt="MOS Last Commit">
 </p>
 _________________________
