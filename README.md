@@ -44,7 +44,7 @@ Xen Orchestra translation <a href="https://translate.vates.tech/user/morna/">
 
 Mos-templates ![Last Commit](https://img.shields.io/github/last-commit/kaywoz/mos-templates?style=flat-square)
 
-Folding@Home points - <a href="https://folding.extremeoverclocking.com/user_summary.php?s=&u=378758">
+<a href="https://folding.extremeoverclocking.com/user_summary.php?s=&u=378758">
 <img src="https://folding-at-home-badge-backend.simplecode.gr/api/badge/Morna/" alt="Points" />
 _________________________
 
