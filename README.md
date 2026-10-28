@@ -24,36 +24,42 @@ Down... it's down... Changed basically all the hypervisor hardware but will upda
 
 Meanwhile I did some translation for the XO-project, try it out! It's awesome if you are a post VMware-pandemonium survivor.
 
-Xen Orchestra translation <a href="https://translate.vates.tech/user/morna/">
-<img src="http://translate.vates.tech/widget/xen-orchestra/xen-orchestra-6/sv/svg-badge.svg" alt="Translation status" />
-</a>
+## Automation & Infrastructure
 
-[![weekly readme refresh](https://github.com/kaywoz/home0ps/actions/workflows/readme-weekly.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/readme-weekly.yml)
+<p>
+  <a href="https://github.com/kaywoz/home0ps/actions/workflows/readme-weekly.yml">
+    <img src="https://github.com/kaywoz/home0ps/actions/workflows/readme-weekly.yml/badge.svg" alt="Weekly README Refresh">
+  </a>
+  <a href="https://github.com/kaywoz/home0ps/actions/workflows/deploy-cloudflare-dns.yml">
+    <img src="https://github.com/kaywoz/home0ps/actions/workflows/deploy-cloudflare-dns.yml/badge.svg" alt="Cloudflare DNS">
+  </a>
+  <a href="https://github.com/kaywoz/home0ps/actions/workflows/deploy-hetzner.yml">
+    <img src="https://github.com/kaywoz/home0ps/actions/workflows/deploy-hetzner.yml/badge.svg" alt="Hetzner">
+  </a>
+  <a href="https://github.com/kaywoz/home0ps/actions/workflows/deploy-tailscale-acl.yml">
+    <img src="https://github.com/kaywoz/home0ps/actions/workflows/deploy-tailscale-acl.yml/badge.svg" alt="Tailscale ACL">
+  </a>
+  <a href="https://github.com/kaywoz/home0ps/actions/workflows/deploy-tailscale-services.yml">
+    <img src="https://github.com/kaywoz/home0ps/actions/workflows/deploy-tailscale-services.yml/badge.svg" alt="Tailscale Services">
+  </a>
+  <a href="https://github.com/kaywoz/github-mirror-controller/actions/workflows/mirror-all.yml">
+    <img src="https://github.com/kaywoz/github-mirror-controller/actions/workflows/mirror-all.yml/badge.svg" alt="Codeberg Mirror">
+  </a>
+  <img src="https://img.shields.io/github/last-commit/kaywoz/mos-templates?style=flat-square" alt="MOS Last Commit">
+</p>
 
-[![deploy cloudflare dns via OpenTofu](https://github.com/kaywoz/home0ps/actions/workflows/deploy-cloudflare-dns.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-cloudflare-dns.yml)
+## Community Contributions
 
-[![deploy cloudflare dns via OpenTofu](https://github.com/kaywoz/home0ps/actions/workflows/deploy-cloudflare-dns.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-cloudflare-dns.yml)
+### Folding@Home
 
-[![deploy hetzner via OpenTofu](https://github.com/kaywoz/home0ps/actions/workflows/deploy-hetzner.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-hetzner.yml)
-
-[![deploy tailscale acl](https://github.com/kaywoz/home0ps/actions/workflows/deploy-tailscale-acl.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-tailscale-acl.yml)
-
-[![deploy tailscale services via OpenTofu](https://github.com/kaywoz/home0ps/actions/workflows/deploy-tailscale-services.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-tailscale-services.yml)
-
-[![mirror repos to Codeberg](https://github.com/kaywoz/github-mirror-controller/actions/workflows/mirror-all.yml/badge.svg)](https://github.com/kaywoz/github-mirror-controller/actions/workflows/mirror-all.yml)
-
-![MOS Last Commit](https://img.shields.io/github/last-commit/kaywoz/mos-templates?style=flat-square)
-
-Folding@Home points -
 <a href="https://folding.extremeoverclocking.com/user_summary.php?s=&u=378758">
-    <img src="https://folding-at-home-badge-backend.simplecode.gr/api/badge/Morna/" alt="Folding@Home Points" />
+  <img src="https://folding-at-home-badge-backend.simplecode.gr/api/badge/Morna/" alt="Folding@Home Points">
 </a>
 
-<br>
+### Xen Orchestra Translation (Swedish)
 
-Xen Orchestra translation (Swedish) -
 <a href="https://translate.vates.tech/projects/xen-orchestra/xen-orchestra-6/sv/">
-    <img src="https://translate.vates.tech/widget/xen-orchestra/xen-orchestra-6/sv/svg-badge.svg" alt="Xen Orchestra Translation" />
+  <img src="https://translate.vates.tech/widget/xen-orchestra/xen-orchestra-6/sv/svg-badge.svg" alt="Xen Orchestra Translation">
 </a>
 
 _________________________
