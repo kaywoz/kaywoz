@@ -28,7 +28,17 @@ Xen Orchestra translation <a href="https://translate.vates.tech/user/morna/">
 <img src="http://translate.vates.tech/widget/xen-orchestra/xen-orchestra-6/sv/svg-badge.svg" alt="Translation status" />
 </a>
 
+[![weekly readme refresh](https://github.com/kaywoz/home0ps/actions/workflows/readme-weekly.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/readme-weekly.yml)
+
 [![deploy cloudflare dns via OpenTofu](https://github.com/kaywoz/home0ps/actions/workflows/deploy-cloudflare-dns.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-cloudflare-dns.yml)
+
+[![deploy cloudflare dns via OpenTofu](https://github.com/kaywoz/home0ps/actions/workflows/deploy-cloudflare-dns.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-cloudflare-dns.yml)
+
+[![deploy hetzner via OpenTofu](https://github.com/kaywoz/home0ps/actions/workflows/deploy-hetzner.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-hetzner.yml)
+
+[![deploy tailscale acl](https://github.com/kaywoz/home0ps/actions/workflows/deploy-tailscale-acl.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-tailscale-acl.yml)
+
+[![deploy tailscale services via OpenTofu](https://github.com/kaywoz/home0ps/actions/workflows/deploy-tailscale-services.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-tailscale-services.yml)
 
 Tailscale via OpenTofu [![deploy tailscale acl](https://github.com/kaywoz/home0ps/actions/workflows/deploy-tailscale-acl.yml/badge.svg)](https://github.com/kaywoz/home0ps/actions/workflows/deploy-tailscale-acl.yml)
 
