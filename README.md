@@ -45,8 +45,7 @@ Meanwhile I did some translation for the XO-project, try it out! It's awesome if
   <a href="https://github.com/kaywoz/github-mirror-controller/actions/workflows/mirror-all.yml">
     <img src="https://github.com/kaywoz/github-mirror-controller/actions/workflows/mirror-all.yml/badge.svg" alt="Codeberg Mirror">
   </a>
-  <img src="https://img.shields.io/github/last-commit/kaywoz/mos-templates?style=flat-square" alt="MOS Last Commit">
-</p>
+
 
 ## Community Contributions
 
@@ -62,6 +61,11 @@ Meanwhile I did some translation for the XO-project, try it out! It's awesome if
   <img src="https://translate.vates.tech/widget/xen-orchestra/xen-orchestra-6/sv/svg-badge.svg" alt="Xen Orchestra Translation">
 </a>
 
+### MOS Apps Contribution
+
+<a href="https://translate.vates.tech/projects/xen-orchestra/xen-orchestra-6/sv/">
+  <img src="https://img.shields.io/github/last-commit/kaywoz/mos-templates?style=flat-square" alt="MOS Last Commit">
+</p>
 _________________________
 
 CTFs etc:<br><br>
