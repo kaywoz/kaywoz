@@ -50,7 +50,7 @@ Meanwhile I did some translation for the XO-project, try it out! It's awesome if
 
 ## Community Contributions
 
-### Folding@Home
+### Folding@Home Points
 
 <a href="https://folding.extremeoverclocking.com/user_summary.php?s=&u=378758">
   <img src="https://folding-at-home-badge-backend.simplecode.gr/api/badge/Morna/" alt="Folding@Home Points">
