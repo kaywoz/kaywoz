@@ -44,17 +44,18 @@ Xen Orchestra translation <a href="https://translate.vates.tech/user/morna/">
 
 ![MOS Last Commit](https://img.shields.io/github/last-commit/kaywoz/mos-templates?style=flat-square)
 
-<a href="https://folding.extremeoverclocking.com/user_summary.php?s=&u=378758">
-<img src="https://folding-at-home-badge-backend.simplecode.gr/api/badge/Morna/" alt="Points" />
-
+Folding@Home points -
 <a href="https://folding.extremeoverclocking.com/user_summary.php?s=&u=378758">
     <img src="https://folding-at-home-badge-backend.simplecode.gr/api/badge/Morna/" alt="Folding@Home Points" />
 </a>
 
+<br>
+
+Xen Orchestra translation (Swedish) -
 <a href="https://translate.vates.tech/projects/xen-orchestra/xen-orchestra-6/sv/">
-    <img src="https://translate.vates.tech/widget/xen-orchestra/xen-orchestra-6/sv/svg-badge.svg" alt="Xen Orchestra Swedish Translation" />
+    <img src="https://translate.vates.tech/widget/xen-orchestra/xen-orchestra-6/sv/svg-badge.svg" alt="Xen Orchestra Translation" />
 </a>
-  
+
 _________________________
 
 CTFs etc:<br><br>
