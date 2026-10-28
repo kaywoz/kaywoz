@@ -42,10 +42,11 @@ Xen Orchestra translation <a href="https://translate.vates.tech/user/morna/">
 
 [![mirror repos to Codeberg](https://github.com/kaywoz/github-mirror-controller/actions/workflows/mirror-all.yml/badge.svg)](https://github.com/kaywoz/github-mirror-controller/actions/workflows/mirror-all.yml)
 
-Mos-templates ![Last Commit](https://img.shields.io/github/last-commit/kaywoz/mos-templates?style=flat-square)
+![MOS Last Commit](https://img.shields.io/github/last-commit/kaywoz/mos-templates?style=flat-square)
 
 <a href="https://folding.extremeoverclocking.com/user_summary.php?s=&u=378758">
 <img src="https://folding-at-home-badge-backend.simplecode.gr/api/badge/Morna/" alt="Points" />
+  
 _________________________
 
 CTFs etc:<br><br>
