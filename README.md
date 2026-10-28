@@ -47,8 +47,13 @@ Xen Orchestra translation <a href="https://translate.vates.tech/user/morna/">
 <a href="https://folding.extremeoverclocking.com/user_summary.php?s=&u=378758">
 <img src="https://folding-at-home-badge-backend.simplecode.gr/api/badge/Morna/" alt="Points" />
 
-- Folding@Home Points: https://folding.extremeoverclocking.com/user_summary.php?s=&u=378758
-- Xen Orchestra Translation (Swedish): https://translate.vates.tech/projects/xen-orchestra/xen-orchestra-6/sv/
+<a href="https://folding.extremeoverclocking.com/user_summary.php?s=&u=378758">
+    <img src="https://folding-at-home-badge-backend.simplecode.gr/api/badge/Morna/" alt="Folding@Home Points" />
+</a>
+
+<a href="https://translate.vates.tech/projects/xen-orchestra/xen-orchestra-6/sv/">
+    <img src="https://translate.vates.tech/widget/xen-orchestra/xen-orchestra-6/sv/svg-badge.svg" alt="Xen Orchestra Swedish Translation" />
+</a>
   
 _________________________
 
