@@ -46,7 +46,7 @@ Meanwhile I did some translation for the XO-project, try it out! It's awesome if
     <img src="https://github.com/kaywoz/github-mirror-controller/actions/workflows/mirror-all.yml/badge.svg" alt="Codeberg Mirror">
   </a>
   <a href="https://kaywozplayz.krypi.net/">
-    <img src="https://healthchecks.io/badge/10bf082e-0d94-4d53-a830-0adc6d8b87dd/HR02USVi-2.svg" alt="Blog publish (healthchecks.io)">
+    <img src="https://healthchecks.io/b/2/63622867-ebad-49d8-9194-764e852d0244.svg" alt="publish blog">
   </a>
 
 
